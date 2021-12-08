@@ -1,0 +1,184 @@
+.profilepic{
+  border-radius: 30%;
+  position: relative;
+}
+
+
+.col-md-3{
+  background-color: #346751;
+  padding: 20px 50px 20px;
+}
+.profile{
+  padding: 10px 25px 10px 25px;
+}
+
+.col-md-3 p, .bio{
+  text-align: justify;
+  color: white;
+}
+.col-md-3 h2{
+  color: white;
+}
+
+.col-md-3 hr{
+  color: white;
+  width: 80%;
+}
+
+hr{
+  text-align: center;
+}
+.col-md-9{
+  background-color: #F7F7E8;
+  padding-right: 20px;
+  background-image: url("Slike/image6.jpg");
+
+}
+.hobbiess{
+  padding-top: 30px;
+}
+.hobby{
+  display: none;
+}
+.name{
+  background-color: #91C788;
+  padding: 10px 10px 10px 40px;
+  border-radius: 30px;
+}
+
+.education{
+  background-color: #D5EEBB;
+  padding: 20px 50px 20px;
+  border-radius: 30px;
+}
+
+.hobbies,
+.skills h2,
+.skills li{
+  color: white;
+}
+
+
+a:hover{
+  color: #74c69d;
+}
+
+a{
+  color:  #02383C;
+  text-decoration: none;
+}
+
+.row{
+  padding-left: 10px;
+}
+.col-sm-3{
+  background-color: #346751;
+  border-radius: 30px;
+  padding: 10px 20px 10px;
+}
+
+.col-sm-9{
+  padding: 10px 10px 10px;
+}
+
+.exp{
+  background-color: #91C788;
+  border-radius: 30px;
+
+  padding: 10px 50px 10px;
+}
+
+.name, .exp table, .education table{
+  color: #1b4332;
+}
+
+
+.nav-link{
+  color: #081c15;
+}
+.nav-link:hover{
+  color: #40916c;
+}
+
+.hobbies{
+  padding-bottom: 20px;
+}
+
+.lang{
+  background-color: #a6c48a;
+  color:  #081c15;
+  border-radius: 30px;
+  padding: 30px 30px 20px;
+}
+
+
+.namelang{
+  width: 150px;
+  color: white;
+}
+
+.data{
+  padding: 10px 20px 20px;
+}
+
+.submit{
+  border-radius: 20px;
+  width: 100px;
+  height: 30px;
+  background-color: #346751;
+  color: #a6c48a;
+}
+.contact{
+  align-items: flex-start;
+}
+.submit:hover{
+  color: #346751;
+  background-color: #a6c48a;
+}
+
+.social a{
+  font-size: 20px;
+}
+.social td{
+  padding: 30px;
+  align-items: center;
+}
+
+.col-4{
+  border-style: solid;
+  border-width: 3px;
+  align-items:center;
+  border-color: #346751;
+  padding: 20px 50px 20px;
+  background-color: #a6c48a;
+}
+
+hr.solid {
+  border-top: 7px solid;
+}
+
+#map{
+  padding-top: 10px;
+}
+
+
+.accordion{
+  outline: 1px solid #064635;
+}
+.accordion-header{
+  background-color: #346751;
+  color: #a6c48a;
+  padding: 6px;
+  cursor:pointer;
+  text-align: center;
+}
+.accordion-item{
+  padding: 6px;
+  color: #346751;
+  background-color: #a6c48a;
+}
+.accordion-item blockquote{
+  padding: 10px;
+  text-align: center;
+  font-size: 18px;
+}
